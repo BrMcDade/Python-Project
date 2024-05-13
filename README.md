@@ -1,2 +1,3 @@
 # Python-Project
-This is for my final.
+#This is for my final.
+#My name is Brandon McDade, and I'm a student at Prairie State College. Currently in my final semester, I'm pursuing an associate's degree in cybersecurity. Alongside my academic journey, I'm exploring Python programming. The provided Python code defines a class named Pet, enabling users to create objects representing pets with attributes such as name, animal type, and age. Through interactive prompts, the main() function captures user input to instantiate Pet objects and display their details. This code serves as a practical introduction to object-oriented programming concepts in Python, reflecting my ongoing educational pursuits 
