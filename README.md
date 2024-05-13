@@ -3,7 +3,7 @@
 #My name is Brandon McDade, and I'm a student at Prairie State College. Currently in my final semester, I'm pursuing an associate's degree in cybersecurity. Alongside my academic journey, I'm exploring Python programming. 
 
 
-The provided Python code is from "Chapter 10 programing exercise 1. Pet Class."
+My Project is from "Chapter 10 programing exercise 1. Pet Class."
 
 This Python project revolves around the Pet class, designed to manage and display information about pets. Here's a breakdown of what the project does:
 
